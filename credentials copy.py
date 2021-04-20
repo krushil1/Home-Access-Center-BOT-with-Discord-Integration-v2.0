@@ -1,2 +1,3 @@
-userName = ""
-password = ""
+
+userName = "ENTER YOUR HAC USERNAME"
+password = "ENTER YOUR HAC PASSWORD"
